@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    margin: auto 0 ;
+   padding: auto;
+   display: inline-flex;
+   float: left;
+}
+
+.left{
+    background-color: aqua;
+    width: 30%;
+    height: 700px;
+}
+
+.left img{
+    width: 100%;
+   }
+
+
+#heading1{
+
+    margin: auto 0 ;
+   padding: auto;
+   text-align: center;
+}
+
+#heading2{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-top: 0px
+}
+
+#heading3{
+    text-align:center;
+    font-size: 25px;
+    color:rgb(103, 188, 228);
+   font-family: serif;
+    margin-top: -10px
+}
+
+#para{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
+#dot{
+    text-align: center;
+    font-size:40px; 
+}
+
+.right{
+    background-color: rgb(129, 126, 120);
+    width: 70%;
+
+}
+#p{
+    text-align: center;
+}
+#skill{
+    text-align: center;
+}
+.leftside{
+    width: 50%;
+    background-color: white;
+    text-align: center;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 10px;
+}
+#ihave{
+    font-size: 20px;
+}
+    
+ #billa{
+    display: flex;
+ }   
+   
+ .header{
+    text-align: center;
+ }
+
+
